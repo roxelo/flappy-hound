@@ -3,4 +3,7 @@ This is my version of the game Flappy Bird. It was made as part of a project for
 
 ### Overview
 The game was programmed in **Python** using the **graphics library**, not pygame.
+
 All the images are mine.
+
+![alt tag](https://raw.githubusercontent.com/roxelo/flappy-hound/master/Overview.PNG)
